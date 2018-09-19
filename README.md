@@ -11,3 +11,6 @@ Input data
 The first line of input consists of three integers N, M and P (2 <= M, N <= 10, 0 <= P <=100). The next N lines,
 Each line consists of M characters to represent the checkerboard. The next P line gives the words that need to be found in the checkerboard.
 Enter a guaranteed lyrics game with at least one set of answers. The letters given in the input are all uppercase letters
+
+Output requirements  
+Output "mystery words", note that the letters in "mystery words" are given in lexicographic order.
