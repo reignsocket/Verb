@@ -5,4 +5,4 @@ The direction in which the words appear in the checkerboard can only be vertical
 Your task is to first find all the words on the checkerboard. Of course, there may be some squares on the board that are not occupied by words.
 according to. Then find out these unused squares and put the letters on these squares into a "mysterious word" in lexicographic order.If you don't know the rules yet, we can use an example to illustrate, such as looking for the word BEG in the image below.GEE.
 
-![image](https://github.com/reignsocket/)
+![image](https://github.com/reignsocket/Verb/blob/master/verb.png)
